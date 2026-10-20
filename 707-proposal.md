@@ -4,7 +4,7 @@
 
 ## Team Members and Roles
 
-[Insert each member's name and specific responsibilities. Assign data preparation and exploratory analysis, feature engineering, modeling and validation, and evaluation and writing across the team.]
+Siyu Gong
 
 ## 1. Clinical Question
 
